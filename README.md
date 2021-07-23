@@ -9,6 +9,15 @@ Dentro de sus principales características se encuentra que es:
 - Compilado: Ya que antes de leerlo el navegador debe pasar por otras etapas.
 - Backwards compatible: Permite correr versiones diferentes a la actual, sin embargo, para esto se deben usar herramientos como Babel.
 
+El orden para leer los archivos es el siguiente:
+
+1. Bases de JavaScript.
+2. Condicionales.
+3. Arrays.
+4. Loops.
+5. Objetos.
+6. Métodos de Arrays.
+
 Nota: La información de este repositorio se basó del [Curso básico de JavaScript](https://platzi.com/cursos/basico-javascript/) de Platzi.
 
 
